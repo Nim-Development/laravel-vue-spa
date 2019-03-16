@@ -1,0 +1,17 @@
+[x] make model for projects
+[x] make model for members
+[x] make model relationships
+[x] make api routes + controller
+[x] make all apis working:
+    > get team
+    > get projects
+    > get single member projects
+    > add projects
+
+    > test in postman
+
+[] make all fetch logics with axios (tutorial?)
+ > team get
+ > projects get single
+ > projects get all
+ > post project
